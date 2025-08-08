@@ -1,0 +1,5 @@
+RecordNumber,Zipcode,ZipCodeType,City,State,LocationType,Lat,Long,Xaxis,Yaxis,Zaxis,WorldRegion,Country,LocationText,Location,Decommisioned,TaxReturnsFiled,EstimatedPopulation,TotalWages,Notes
+1,704,STANDARD,PARC PARQUE,PR,NOT ACCEPTABLE,17.96,-66.22,null,-0.87,0.3,NA,US,Parc Parque,PR,NA-US-PR-PARC PARQUE,false,null,null,null
+2,704,STANDARD,PASEO COSTA DEL SUR,PR,NOT ACCEPTABLE,17.96,-66.22,null,-0.87,0.3,NA,US,Paseo Costa Del S...,NA-US-PR-PASEO CO...,false,null,null,null,null
+10,709,STANDARD,BDA SAN LUIS,PR,NOT ACCEPTABLE,18.14,-66.26,null,-0.86,0.31,NA,US,Bda San Luis,PR,NA-US-PR-BDA SAN ...,false,null,null,null
+61391,76166,UNIQUE,CINGULAR WIRELESS,TX,NOT ACCEPTABLE,32.72,-97.31,null,-0.83, 0.54,NA,US,Cingular Wireless...,NA-US-TX-CINGULAR...,false,null,null,null,null
