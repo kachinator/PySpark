@@ -1,0 +1,13 @@
+[   {"contact_type":"Company",
+    "id":"da38f109-8b8d-d4af-576b-64a0fd87d247",
+    "addresses":[{"city":"HILLSBORO","country_code":"null","line1":"5210 16TH AVE S","postal_code":"33619","state_code":"FL"},
+                 {"city":"PLACENTIA","country_code":"null","line1":"3417 SANDY PORTER RD","postal_code":"28273","state_code":"NC"},
+                 {"city":"FAIRBANKS","country_code":"USA","line1":"455 3RD AVE STE 120","postal_code":"99701","state_code":"AK"}]
+    },
+    {"contact_type":"individual",
+    "id":"f109da38-d4af-576f-576b-64a0fd87d247",
+    "addresses":[{"city":"TAMPA","country_code":"US","line1":"12840 SW RIV RD","postal_code":"97123","state_code":"OR"},
+                 {"city":"PLACENTIA","country_code":"null","line1":"1760 PEACHTREE ST NW 100","postal_code":"30309","state_code":"GA"},
+                 {"city":"ATLANTA","country_code":"USA","line1":"107 POLK ST","postal_code":"92870","state_code":"CA"}]  
+    } 
+]
